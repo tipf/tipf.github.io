@@ -16,7 +16,7 @@
 locale                    : "en-US"
 title                     : "Tim Pfeifer"
 title_separator           : "|"
-email                     :
+email                     : "test@test.com"
 description               : >- # this means to ignore newlines until "baseurl:"
   Personal homepage of Tim Pfeifer.
 baseurl                   : ""
@@ -111,6 +111,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-email-protect
 
 defaults:
   # _posts
