@@ -13,17 +13,64 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tim Pfeifer
-title_separator: "|"
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-# twitter_username: username
-github_username: tipf
-minimal_mistakes_skin: air
-search: true
+locale                    : "en-US"
+title                     : "Tim Pfeifer"
+title_separator           : "|"
+email                     :
+description               : >- # this means to ignore newlines until "baseurl:"
+  Personal homepage of Tim Pfeifer.
+baseurl                   : ""
+url                       : https://tipf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+repository                : "tipf/tipf.github.io"
+github_username           : tipf
+minimal_mistakes_skin     : air
+search                    : true
+read_time                 : false
+#~ teaser                    : /assets/images/500x300.png # default teaser image for blog posts
+#~ logo                      : "/assets/images/88x88.png" # page logo
+#~ breadcrumbs               : true  # disabled by default
+
+# author information
+author:
+  name      : "Tim Pfeifer"
+  avatar    : "/assets/images/Tim_2022.jpeg"
+  bio       : "I am a research assistant at the Chair of Automation Engineering (TU Chemnitz), specializing in the development of robust sensor data fusion methods."
+  location  : "Chemitz, Germany"
+  employer  : "TU Chemnitz"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tipf"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://de.linkedin.com/in/tim-pfeifer-a3bba3276"
+    
+# Information for Google search
+social:
+  type:  Person # Person or Organization (defaults to Person)
+  name:  Tim Pfeifer # If the user or organization name differs from the site's name
+  links:
+    - "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
+    - "https://github.com/tipf"
+    - "https://www.linkedin.com/in/tim-pfeifer-a3bba3276"
+    
+# social footer links
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tipf"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://de.linkedin.com/in/tim-pfeifer-a3bba3276"  
+    
+# SEO optimization (ToDo!)
 
 # Build settings
 markdown: kramdown
@@ -57,30 +104,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-author:
-  name   : "Tim Pfeifer"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a research assistant at the Chair of Automation Engineering (TU Chemnitz), specializing in the development of robust sensor data fusion methods."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tipf"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
