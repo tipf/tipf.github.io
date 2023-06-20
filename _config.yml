@@ -34,13 +34,19 @@ read_time                 : false
 author:
   name      : "Tim Pfeifer"
   avatar    : "/assets/images/Tim_2022.jpeg"
-  bio       : "I am a research assistant at the Chair of Automation Engineering (TU Chemnitz), specializing in the development of robust sensor data fusion methods."
+  bio       : "Research Assistant, Robotics & Sensor fusion"
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
+    - label: "Google Scholar"
+      icon: "fa-solid fa-graduation-cap"
+      url: "https://scholar.google.de/citations?user=YBsqIrQAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-8974-2278"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tipf"
@@ -54,6 +60,7 @@ social:
   name:  Tim Pfeifer # If the user or organization name differs from the site's name
   links:
     - "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
+    - "https://scholar.google.de/citations?user=YBsqIrQAAAAJ"
     - "https://github.com/tipf"
     - "https://www.linkedin.com/in/tim-pfeifer-a3bba3276"
     
