@@ -42,7 +42,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
     - label: "Google Scholar"
-      icon: "fa-solid fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.de/citations?user=YBsqIrQAAAAJ"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
@@ -52,7 +52,7 @@ author:
       url: "https://github.com/tipf"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://de.linkedin.com/in/tim-pfeifer-a3bba3276"
+      url: "https://de.linkedin.com/in/pfeifer-tim"
     
 # Information for Google search
 social:
@@ -62,7 +62,7 @@ social:
     - "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
     - "https://scholar.google.de/citations?user=YBsqIrQAAAAJ"
     - "https://github.com/tipf"
-    - "https://www.linkedin.com/in/tim-pfeifer-a3bba3276"
+    - "https://www.linkedin.com/in/pfeifer-tim"
     
 # social footer links
 footer:
@@ -75,7 +75,7 @@ footer:
       url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://de.linkedin.com/in/tim-pfeifer-a3bba3276"  
+      url: "https://de.linkedin.com/in/pfeifer-tim"  
     
 # SEO optimization (ToDo!)
 
