@@ -37,7 +37,7 @@ author:
   bio       : "Research Assistant, Robotics & Sensor fusion"
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
-  email     : "{{ 'example@example.com' | encode_email }}"
+  email     : {{ 'example@example.com' | encode_email }}
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
