@@ -37,10 +37,8 @@ author:
   bio       : "Research Assistant, Robotics & Sensor fusion"
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
+  email     : "{{ 'example@example.com' | encode_email }}"
   links:
-    - label: "Contact Me"
-      icon: "fas fa-fw fa-envelope"
-      url: "{{'mailto:' | append: site.email}}"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
