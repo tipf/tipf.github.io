@@ -38,9 +38,9 @@ author:
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
   links:
-    - label: "Mail"
+    - label: "Contact Me"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:site.email"
+      url: "mailto:{site.email}"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
