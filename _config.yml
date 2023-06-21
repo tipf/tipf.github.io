@@ -16,7 +16,7 @@
 locale                    : "en-US"
 title                     : "Tim Pfeifer"
 title_separator           : "|"
-email                     : "test@test.com"
+email                     : "{{ 'example@example.com' | encode_email }}"
 description               : >- # this means to ignore newlines until "baseurl:"
   Personal homepage of Tim Pfeifer.
 baseurl                   : ""
@@ -38,6 +38,9 @@ author:
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
   links:
+    - label: "Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:{{ site.email | encode_email }}" title="Contact me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
