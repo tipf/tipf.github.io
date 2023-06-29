@@ -18,7 +18,7 @@ title                     : "Tim Pfeifer"
 title_separator           : "|"
 email                     : "tipf@mailbox.org"
 description               : >- # this means to ignore newlines until "baseurl:"
-  Personal homepage of Tim Pfeifer.
+  The personal homepage of Tim Pfeifer. All about robotics, robust estimation and factor graphs.
 baseurl                   : ""
 url                       : https://tipf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository                : "tipf/tipf.github.io"
@@ -29,6 +29,11 @@ read_time                 : false
 #~ teaser                    : /assets/images/500x300.png # default teaser image for blog posts
 #~ logo                      : "/assets/images/88x88.png" # page logo
 #~ breadcrumbs               : true  # disabled by default
+
+# xml feed
+atom_feed:
+  hide: true
+
 
 # author information
 author:
@@ -54,16 +59,6 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://de.linkedin.com/in/pfeifer-tim"
     
-# Information for Google search
-social:
-  type:  Person # Person or Organization (defaults to Person)
-  name:  Tim Pfeifer # If the user or organization name differs from the site's name
-  links:
-    - "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
-    - "https://scholar.google.de/citations?user=YBsqIrQAAAAJ"
-    - "https://github.com/tipf"
-    - "https://www.linkedin.com/in/pfeifer-tim"
-    
 # social footer links
 footer:
   links:
@@ -76,8 +71,20 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://de.linkedin.com/in/pfeifer-tim"  
+      
+# Information for Google search
+social:
+  type:  Person # Person or Organization (defaults to Person)
+  name:  Tim Pfeifer # If the user or organization name differs from the site's name
+  links:
+    - "https://www.tu-chemnitz.de/etit/proaut/en/team/timPfeifer.html"
+    - "https://scholar.google.de/citations?user=YBsqIrQAAAAJ"
+    - "https://github.com/tipf"
+    - "https://www.linkedin.com/in/pfeifer-tim"
     
 # SEO optimization (ToDo!)
+google_site_verification: "YSNSf9UjiJXe8x1hRELFK9PczQHFD5OVYRPxeTCeQBc"
+
 
 # Build settings
 markdown: kramdown
