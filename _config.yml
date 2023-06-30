@@ -15,10 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 locale                    : "en-US"
 title                     : "Tim Pfeifer"
+subtitle                  : "Research Engineer in Robotics & Sensor Fusion"
+name                      : "Tim Pfeifer"
 title_separator           : "|"
 email                     : "tipf@mailbox.org"
 description               : >- # this means to ignore newlines until "baseurl:"
-  The personal homepage of Tim Pfeifer. All about robotics, robust estimation and factor graphs.
+  Tim Pfeifer - Research Engineer specializing in Robotics & Sensor Fusion | Chemnitz University
+  
+  Enhance the reliability of autonomous systems with robust sensor data fusion methods.
+  Contact me for innovative algorithms handling non-Gaussian measurement errors.
 baseurl                   : ""
 url                       : https://tipf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository                : "tipf/tipf.github.io"
@@ -39,7 +44,7 @@ atom_feed:
 author:
   name      : "Tim Pfeifer"
   avatar    : "/assets/images/Tim_2022.webp"
-  bio       : "Research Assistant, Robotics & Sensor fusion"
+  bio       : "Research Engineer, Robotics & Sensor Fusion"
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
   links:
