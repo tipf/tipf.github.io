@@ -24,7 +24,7 @@ description               : >- # this means to ignore newlines until "baseurl:"
   
   Enhance the reliability of autonomous systems with robust sensor data fusion methods.
   Contact me for innovative algorithms handling non-Gaussian measurement errors.
-baseurl                   : ""
+# baseurl                   : ""
 url                       : https://tipf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository                : "tipf/tipf.github.io"
 github_username           : tipf
@@ -44,7 +44,7 @@ atom_feed:
 author:
   name      : "Tim Pfeifer"
   avatar    : "/assets/images/Tim_2022.webp"
-  bio       : "Research Engineer, Robotics & Sensor Fusion"
+  bio       : "I develop robust localization algorithms that adapt themselves to unforeseen conditions."
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
   links:
