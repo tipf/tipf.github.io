@@ -38,7 +38,7 @@ atom_feed:
 # author information
 author:
   name      : "Tim Pfeifer"
-  avatar    : "/assets/images/Tim_2022.jpeg"
+  avatar    : "/assets/images/Tim_2022.webp"
   bio       : "Research Assistant, Robotics & Sensor fusion"
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
