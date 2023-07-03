@@ -44,7 +44,7 @@ atom_feed:
 author:
   name      : "Tim Pfeifer"
   avatar    : "/assets/images/Tim_2022.webp"
-  bio       : "I develop robust localization algorithms that adapt themselves to unforeseen conditions."
+  bio       : "Advancing robust localization algorithms that dynamically adapt to unforeseen conditions."
   location  : "Chemitz, Germany"
   employer  : "TU Chemnitz"
   links:
@@ -87,7 +87,7 @@ social:
     - "https://github.com/tipf"
     - "https://www.linkedin.com/in/pfeifer-tim"
     
-# SEO optimization (ToDo!)
+# SEO optimization
 google_site_verification: "YSNSf9UjiJXe8x1hRELFK9PczQHFD5OVYRPxeTCeQBc"
 
 
