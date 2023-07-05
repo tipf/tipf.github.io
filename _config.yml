@@ -20,10 +20,8 @@ name                      : "Tim Pfeifer"
 title_separator           : "|"
 email                     : "tipf@mailbox.org"
 description               : >- # this means to ignore newlines until "baseurl:"
-  Tim Pfeifer - Research Engineer specializing in Robotics & Sensor Fusion | Chemnitz University
-  
-  Enhance the reliability of autonomous systems with robust sensor data fusion methods.
-  Contact me for innovative algorithms handling non-Gaussian measurement errors.
+  Tim Pfeifer - Research Engineer in Robotics & Sensor Fusion at TU Chemnitz. 
+  Enhance the reliability of autonomous systems with robust sensor fusion methods.
 # baseurl                   : ""
 url                       : https://tipf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository                : "tipf/tipf.github.io"

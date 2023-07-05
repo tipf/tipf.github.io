@@ -6,7 +6,7 @@ classes: wide
 
 To get the most recent overview, you can also have a look at my <a href="http://scholar.google.es/citations?user=YBsqIrQAAAAJ" target="_blank">Google Scholar profile</a>.
 
-### Journal Articles
+## Journal Articles
 
 1. Haggag, K.; Lange, S.; Pfeifer, T. & Protzel, P. (2022)  
    A Credible and Robust Approach to Ego-Motion Estimation Using an Automotive Radar, 
@@ -21,7 +21,7 @@ To get the most recent overview, you can also have a look at my <a href="http://
    System design and energy management for indoor solar energy harvesting under consideration of spectral characteristics of solar cells, 
    *Int. Journal of Measurement Technologies and Instrumentation Engineering (IJMTIE)*
 
-### Conference Papers
+## Conference Papers
 
 1. Pöschmann, J.; Pfeifer, T. & Protzel, P. (2021)  
    Optimization based 3D Multi-Object Tracking using Camera and Radar Data, 
