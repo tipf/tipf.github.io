@@ -11,7 +11,7 @@ This move to industry allows me to apply my experience in robust and adaptive st
 
 During the wonderful time at the [Chair of Automation Technology](https://www.tu-chemnitz.de/etit/proaut/) at the Chemnitz University of Technology, I had the opportunity to develop several approaches for robust sensor fusion. If you are interested in specific algorithms, please have a look at my publications [here](publications).
 
-One important lesson from my time in academia is that the assumption of Gaussian measurement errors is dangerous.
+One important lesson from my time in academia is that the assumption of Gaussian measurement errors is problematic.
 Non-Gaussian errors occur almost everywhere -- when using satellite navigation, radio-based localization, or vision sensors.
 If we don't account for them, any autonomous system can fail dramatically.
 
