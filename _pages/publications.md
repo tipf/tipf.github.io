@@ -6,6 +6,19 @@ classes: wide
 
 To get the most recent overview, you can also have a look at my <a href="http://scholar.google.es/citations?user=YBsqIrQAAAAJ" target="_blank">Google Scholar profile</a>.
 
+
+## Theses
+
+1. T. Pfeifer (2023).
+   Adaptive Estimation using Gaussian Mixtures
+   *PhD Thesis, Technischen Universität Chemnitz*, https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-873459
+2. T. Pfeifer (2014)
+   Entwicklung eines mobilen Funkortungssystems auf Basis interferometrischer Phasenmessungen
+   *Master Thesis, Technischen Universität Chemnitz*
+3. T. Pfeifer (2012)
+   Mikrocontroller gesteuertes Maximum Power Point Tracking für Solaran-wendungen
+   *Bachelor Thesis, Technischen Universität Chemnitz*
+
 ## Journal Articles
 
 1. Haggag, K.; Lange, S.; Pfeifer, T. & Protzel, P. (2022)  
@@ -56,3 +69,4 @@ To get the most recent overview, you can also have a look at my <a href="http://
 11. Viehweger, C.; Pfeifer, T.; Keutel, T. & Kanoun, O. (2013)  
     Dual-DC/DC Strategy for Enhanced Efficiency in Solar Powered Energy Harvesting, 
     *Proc. of SENSOR Conf.*, DOI: [10.5162/SENSOR2013/C8.4](https://dx.doi.org/10.5162/SENSOR2013/C8.4)
+
