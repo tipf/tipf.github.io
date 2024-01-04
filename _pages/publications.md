@@ -11,13 +11,13 @@ To get the most recent overview, you can also have a look at my <a href="http://
 
 1. T. Pfeifer (2023).
    Adaptive Estimation using Gaussian Mixtures
-   *PhD Thesis, Technischen Universität Chemnitz*, URL: [https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-873459](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-873459)
+   *PhD Thesis, Chemnitz University of Technology*, [URL](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-873459)
 2. T. Pfeifer (2014)
    Entwicklung eines mobilen Funkortungssystems auf Basis interferometrischer Phasenmessungen
-   *Master Thesis, Technischen Universität Chemnitz*
+   *Master Thesis, Chemnitz University of Technology*
 3. T. Pfeifer (2012)
    Mikrocontroller gesteuertes Maximum Power Point Tracking für Solaran-wendungen
-   *Bachelor Thesis, Technischen Universität Chemnitz*
+   *Bachelor Thesis, Chemnitz University of Technology*
 
 ## Journal Articles
 
