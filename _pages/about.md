@@ -9,7 +9,7 @@ redirect_from:
 Just after defending my PhD, I joined the [RTLS department](https://www.siemens.com/de/de/unternehmen/standorte/kompetenzzentrum-funkortungssysteme-chemnitz.html) of Siemens AG to develop robust indoor localization systems.
 This move to industry allows me to apply my experience in robust and adaptive state estimation to real-world applications.
 
-During the wonderful time at the [Chair of Automation Technology](https://www.tu-chemnitz.de/etit/proaut/) at the Chemnitz University of Technology, I had the opportunity to develop several approaches for robust sensor fusion. If you are interested in specific algorithms, please have a look at my publications [here](publications).
+During the wonderful time at the [Chair of Automation Technology](https://www.tu-chemnitz.de/etit/proaut/) at the Chemnitz University of Technology, I had the opportunity to develop several approaches for robust sensor fusion. If you are interested in specific algorithms, please have a look at my publications [here](publications/).
 
 One important lesson from my time in academia is that the assumption of Gaussian measurement errors is problematic.
 Non-Gaussian errors occur almost everywhere -- when using satellite navigation, radio-based localization, or vision sensors.
